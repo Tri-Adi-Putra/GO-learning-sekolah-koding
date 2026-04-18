@@ -4,4 +4,6 @@
 nanti baca bagian ini 
 
 
+pembelajaran selanjut nya
 https://app.sko.dev/archived/kelas/mulai-belajar-go-lang
+6 apa itu komentar
