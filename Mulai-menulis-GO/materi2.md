@@ -1,4 +1,5 @@
-<img width="1536" height="2752" alt="unnamed" src="https://github.com/user-attachments/assets/48b3c2b6-33d6-451b-880c-de9087151850" />
+<img width="510" height="897" alt="image" src="https://github.com/user-attachments/assets/c3f18f9f-d624-4768-9ea9-c2c18ea7ee5c" />
+
 
 Panduan Belajar: Logika Dasar dan Angka dalam Bahasa Go
 
