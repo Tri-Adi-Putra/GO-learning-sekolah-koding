@@ -9,4 +9,4 @@ pembelajaran selanjut nya
 [https://app.sko.dev/archived/kelas/mulai-belajar-go-lang]
 
 (https://www.youtube.com/playlist?list=PLCZlgfAG0GXDztO-BFc9R5afhP26Dhsgm)
-6 apa itu komentar
+9 apa itu komentar
