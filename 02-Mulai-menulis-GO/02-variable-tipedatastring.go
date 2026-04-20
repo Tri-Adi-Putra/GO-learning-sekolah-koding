@@ -15,6 +15,12 @@ var namaGabungan = namaDepan + " " + namaBelakang
 var nama, samping = "agnes", "levia"
 
 func main() {
+
+    sekolah := "universita Mercu" //short hand
+
+	fmt.Println("saya Kuliah di ", sekolah)
+
+    
     fmt.Println("Nama Depan saya " + " " + namaDepan)
     fmt.Println("perkenalkan nama saya " + " " + namaGabungan)
     
