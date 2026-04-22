@@ -4,7 +4,7 @@
 nanti baca bagian ini 
 
 
-pembelajaran selanjut nya
+pembelajaran selanjutnya membaca dari nootboklm mulai dari bagian no 4, nanti lanjut video 9 operasi mtk
 
 [https://app.sko.dev/archived/kelas/mulai-belajar-go-lang]
 
