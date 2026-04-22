@@ -2,7 +2,7 @@
 
 
 
-Panduan Belajar: Logika Dasar dan Angka dalam Bahasa Go
+<h1>Panduan Belajar: Logika Dasar dan Angka dalam Bahasa Go</h1>
 
 1. Pendahuluan: Memulai Langkah Pertama di Golang
 
