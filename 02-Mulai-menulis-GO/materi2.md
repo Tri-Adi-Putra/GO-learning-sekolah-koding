@@ -53,10 +53,13 @@ Expert Insight: Berhati-hatilah saat melakukan pembagian antar integer. Di Go, h
 
 Contoh penulisan kode dalam Go:
 
+
 package main
 
 func main() {
+
     // Menghitung sisa stok setelah pembelian
+    
     totalStok := 100
     jumlahBeli := 15
     sisaStok := totalStok - jumlahBeli
