@@ -27,6 +27,12 @@ func main() {
 	//tipe data numeric/number
 	umur := 50
 
+/*nilai tidak bisa di rubah menggunakan const
+const gajiKaryawan = 50000000
+gajiKaryawan++
+
+ 
+ fmt.println (gajiKaryawan) maka akan eror*/
 	fmt.Println("umur kakek saya ", umur)
 	fmt.Println("saya Kuliah di ", sekolah)
 	fmt.Println("Nama Depan saya" + namaDepan)
