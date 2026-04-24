@@ -9,4 +9,4 @@ pembelajaran selanjutnya membaca dari nootboklm mulai dari bagian no 4, nanti la
 [https://app.sko.dev/archived/kelas/mulai-belajar-go-lang]
 
 (https://www.youtube.com/playlist?list=PLCZlgfAG0GXDztO-BFc9R5afhP26Dhsgm)
-9 operasi matematika di go
+ 10 Nilai konstan
